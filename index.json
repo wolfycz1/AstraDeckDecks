@@ -5,6 +5,7 @@
         "author": "Silver Wolf",
         "description": "This repository belongs to the Stellaron Hunters now:P",
         "url": "https://raw.githubusercontent.com/wolfycz1/AstraDeckDecks/main/decks/Lorem%20Ipsum.astra",
-        "tags": ["Lorem", "Ipsum"]
+        "tags": ["Lorem", "Ipsum"],
+	"hidden": true
     }
 ]
