@@ -7,5 +7,14 @@
         "url": "https://raw.githubusercontent.com/wolfycz1/AstraDeckDecks/main/decks/Lorem%20Ipsum.astra",
         "tags": ["Lorem", "Ipsum"],
 	"hidden": true
+    },
+    {
+	"id": "260f5e62-b473-487b-954b-a4070435c1f5",
+	"title": "Flags of Europe",
+	"author": "wolfycz1",
+	"description": "Flags of European countries.",
+	"url": "https://raw.githubusercontent.com/wolfycz1/AstraDeckDecks/main/decks/flagsofeurope.astra",
+	"tags": ["flags", "europe"],
+	"hidden": false
     }
 ]
